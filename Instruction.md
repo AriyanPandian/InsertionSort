@@ -1,0 +1,1 @@
+Create a Java program that implements the insertion sort algorithm. Showcase the algorithm's step-by-step process of building the sorted array by repeatedly inserting elements from the unsorted portion into their correct positions within the sorted portion.
